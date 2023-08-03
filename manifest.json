@@ -1,6 +1,6 @@
 {
   "name": "Bigger Breakout Box",
-  "version": "1.1",
+  "version": "1.1.1",
   "description": "Don't you hate how difficult it is to sort the breakout rooms in Google Meet? Me too.",
   "permissions": ["activeTab", "scripting"],
   "background": {
